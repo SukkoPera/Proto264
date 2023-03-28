@@ -4,7 +4,7 @@ Proto264 is an Open Hardware prototyping board for the Expansion port of the Com
 ![Board](https://raw.githubusercontent.com/SukkoPera/Proto264/master/img/render-top.png)
 
 ## Summary
-*This board does NOTHING out-of-the box*, it's meant to be the first brick upon which you can prototype your own Expansion port-based designs.
+**This board does NOTHING out-of-the box**, it's meant to be the first brick upon which you can prototype your own Expansion port-based designs.
 
 It's basically a matrix of 2.54mm-spaced soldering points with easy access to all the signals available and plenty of power points. With a few wires you can easily build anything you have in mind.
 
